@@ -59,8 +59,9 @@ Use the attached reference image as the character. Recreate the famous
 style, tan skin, thick black eyebrows, purple hoodie with a black collar,
 black track pants with a white stripe, orange and white sneakers. Keep the
 original scene's framing, pose and expression. Square image. Leave clear
-space at the top and bottom for a caption. Caption in white Impact font
-with a black outline. Top line: "[LINE 1]". Bottom line: "[LINE 2]".
+space at the top and bottom for a caption. Caption in white Press Start 2P
+(the chunky 8-bit pixel font) with a black outline. Top line: "[LINE 1]".
+Bottom line: "[LINE 2]".
 ```
 
 no image tool. that is fine. open any meme maker, load a file from `meme-templates/` or `looks/`, type the caption. rule 3 still applies.
